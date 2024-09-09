@@ -1,1 +1,4 @@
-# csedbatch1
+void main()
+{
+  printf("first c program");
+}
